@@ -1,0 +1,2 @@
+# Developmental-transcriptome-of-the-murine-thalamus
+Bulk RNA-Seq study of the murine thalamus at embryonic (E18.5, embryonic day 18), young postnatal (P10, postnatal day 10) and adult (P60, postnatal day 60). HiC study of the thalamus at P60. Identification of gene expression trajectory in development and comparison with HiC data. This dataset explores how expression commitment from embryonic to adult stage correlates to 3D chromatin looping. 
